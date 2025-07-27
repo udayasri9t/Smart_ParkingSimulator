@@ -31,7 +31,7 @@ This simulator:
 
 The current state of the parking lot is rendered like this:
 
-![Dashboard Screenshot](screenshots/dashboard_preview.png)
+![Dashboard Screenshot](dashboard_preview.png)
 
 > Each slot shows its number, vehicle number (if occupied), and live status.
 
