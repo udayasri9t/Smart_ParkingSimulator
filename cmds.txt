@@ -1,0 +1,5 @@
+gcc parking_sim.c -o parking_sim.exe
+
+./parking_sim.exe
+
+start dashboard.html
